@@ -6,7 +6,7 @@ Please note that the program is under development and may fails.
 
 The script can be executed as
 ```
-python HS2VTK.py <HYDROTHERM output dir> <HYDROTHERM output file suffix> <VTK file base name>"
+python HS2VTK.py <HYDROTHERM output dir> <HYDROTHERM output file suffix> <VTK file base name>
 ```
 
 ## LICENCE ##
