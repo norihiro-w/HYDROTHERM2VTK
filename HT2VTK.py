@@ -1,7 +1,7 @@
-# Copyright (c) 2017 Norihiro Watanabe.
+# Copyright (c) 2017-2024 Norihiro Watanabe.
 #
-# HS2VTK is free software; you can redistribute and use in source and
-# binary forms, with or without modification. HS2VTK is distributed in the
+# HT2VTK is free software; you can redistribute and use in source and
+# binary forms, with or without modification. HT2VTK is distributed in the
 # hope that it will be useful but WITHOUT ANY WARRANTY; without even the
 # implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
